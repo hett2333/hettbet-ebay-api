@@ -1,0 +1,6 @@
+{
+  "name": "hettbet-ebay-api",
+  "version": "1.0.0",
+  "description": "Vercel serverless function that securely searches eBay's Browse API for the Hett Bet Market Scanner",
+  "private": true
+}
